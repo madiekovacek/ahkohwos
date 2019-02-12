@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tovaegoo.i-fritten.com/sitemap.xml
